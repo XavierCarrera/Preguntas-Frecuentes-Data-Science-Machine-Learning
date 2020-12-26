@@ -105,7 +105,7 @@ La algebra lineal nos permite tener un entendimiento más afondo de los algoritm
 - *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado. 
 - *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
 - *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
-- *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande. 
+- *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande y quieres reducirlo. 
 
 **Cálculo**
 
