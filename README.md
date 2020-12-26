@@ -111,7 +111,8 @@ La algebra lineal nos permite tener un entendimiento más afondo de los algoritm
 
 Con cálculo podemos analisas las tasas de cambio de las cantidades. Esto genera curvas las cuales podemos medir según su longitud u area, que nos permite optimizar nuestros algoritmos de machine learning. En especial, necesitamos cálculos para: 
 
-- *Gradiente descendente*: Con el cual podemos reducir las pérdidas mientras entrenamos un modelo y medir el error de nuestras predicciones.
+- *Derivadas e integrales*: es decir, como podemos partir un problema en pedazos más pequeños y luego rearmarlos para entender tasas de cambio. 
+- *Gradiente descendente*: con el cual podemos reducir las pérdidas mientras entrenamos un modelo y medir el error de nuestras predicciones.
 
 Las matemáticas suelen ser un tema que asusta y detiene a muchas personas para entrar a data science y machine learning. Mi consejo es: no te preocupes por hacer cálculos (para eso tienes la computadora). Más bien enfócate en desarrollar un pensamiento probablístico y matemático que te lleve a a saber seleccionar la mejor solución para el problema que te estas enfrentando. 
 
