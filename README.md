@@ -102,7 +102,8 @@ En el caso de estadística avanzada, nos enfocamos a usar la estadística para e
 La algebra lineal nos permite tener un entendimiento más afondo de los algoritmos de machine learning y como sacarles mayor provecho. En particular, vale la pena tener en cuenta lo siguiente:
 
 - *Normas de vectores y distancias euclidianas*: que nos permite endender nuestras funciones de pérdida. Es decir, cuanto nuestro modelo deja de aprender a medida que procesa los datos o lo muy alejado que se encuentra nuestra prediccion de la realidad.
-- *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado. 
+- *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado.
+- *Operaciones de Vectores y Matrices*: las cuales son utiles para debugar redes neuronales, transformar tu informacion e incluso optimizar calculos.
 - *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
 - *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
 - *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande y quieres reducirlo. 
