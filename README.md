@@ -1,6 +1,6 @@
 # Algunas Preguntas Frecuentes Sobre Data Science y Machine Learning
 
-Desde que inicié este lindo recorrido llamado, me he dado cuenta que las personas tienen las mismas dudas. Ya sea cuando apenas están arrancando con esta disciplina u incluso si llevan algún tiempo. Lo que intento con esto es resumir algunas de las respuestas a preguntas frecuentes. Aquí también podrás encontrar recursos para cada una de ellas. 
+Desde que inicié este lindo recorrido llamado Ciencia de datos, me he dado cuenta que las personas tienen las mismas dudas. Ya sea cuando apenas están arrancando con esta disciplina ó incluso si llevan algún tiempo. Lo que intento con esto es resumir algunas de las respuestas a preguntas frecuentes. Aquí también podrás encontrar recursos para cada una de ellas. 
 
 Mi recomendación es usar esto como una guía de estudio y un checklist de skills por desarrollar. 
 
@@ -12,13 +12,13 @@ Sin más retraso, acá hay algunas de las preguntas más frecuentes entre las pe
 
 La ciencia de datos son básicamente tres cosas:
 
-- **Ciencias de la Computación**: programación para ser más específicos
-- **Matemáticas**: estadística mayormente, y algo de álgebra lineal y cálculo
+- **Ciencias de la Computación**: programación, para ser más específicos
+- **Matemáticas**: estadística mayormente, algo de álgebra lineal y cálculo
 - **Conocimiento de negocio**
 
 Para ser un científico de datos hay que desarrollar estas tres areas. También hay que tener en cuenta que Data Science tiene varias subramas:
 
-- **Análisis de Datos y Business Intelligence**: que se encarga de tomar los datos recogidos para analisis una necesidad de negocio y ayudar a los líderes a toamr decisiones basadas en datos. 
+- **Análisis de Datos y Business Intelligence**: que se encarga de tomar los datos recogidos para analisis respecto a una necesidad de negocio y ayudar a los líderes a toamr decisiones basadas en datos. 
 - **Ingenieria y Arquitectura de Datos**: que se encarga del proceso de ETL (extraer, transformar y cargar). Es decir, tomar datos de diferentes fuentes (bases de datos, web scraping, APIs, etc), limpiar los datos y entregarlos en un sitio donde los científicos de datos podrán disponer de ellos (data warehouses, bases de datos, cloud, etc).
 - **Científico de datos**: que se encarga de tareas similares al analista de datos, aunado a utilizar la data disponible para entrenar modelos de machine learning.
 - **Ingenieros de Machine Learning, Deep Learning e Inteligencia Artificial**: que se encargan no solo de entrenar modelos con la data discponible, sino también desplegarlos para que sigan siendo re-entrenados con data entrante.
@@ -58,11 +58,11 @@ El mayor valor de SQL para un data scientist es la posibilidad de hacer consulta
 - Despues puedes avanzar a funciones más avanzadas como window functions o trigger functions. Estas pertencen a las particularidades de motores de bases de datos como MySQL, PostgreSQL, Oracle o SQL Server. 
 - Finalmente, aprender sobre soluciones de cloud como (Amazon Web Services, Google Cloud Platform, Azure, IBM, etc) es importantísimo para aprovechar las bondades de la Big Data (es decir, los millones de tera bytes disponibles). En este sentido, conviene enfocarse a las búsquedas columnares. 
 
-Aunque NoSQL (es decir bases de datos basadas en documentos) no son parte común del trabajo de un científico de datos, conviene saber algo de MongoDB o Firebase para poder tener un acceso aún mayor a datos.
+Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimizadas para busqueda, para memoria o basadas en grafos) no son parte común del trabajo de un científico de datos, conviene saber algo de MongoDB o Firebase para poder tener un acceso aún mayor a datos.
 
 ## 4. ¿Qué es machine learning?
 
-Machine learning es la parte de data science que se encarga de entrenar redes neuronales a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
+Machine learning es la parte de data science que se encarga de ensñarle a las maquinas una habilidad que no puede ser directamente programada, a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
 
 Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocaublario que le enseñenos. Si al niño le enseñamos groserias, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
 
@@ -74,7 +74,7 @@ XXXX
 
 ## 6. ¿Que matemáticas necesito?
 
-**No necesitas matemáticas para arrancar con data scientes, pero es una habilidad que necesitarás para dominar esta discplina**. Lo más importante es que entiendas e internalices los conceptos matemáticos clave. La computadora es la encargada de realizar los cálculos necesarios, por lo que debes concentrarte en conocer cuales son las herramientas matemáticas que pueden explicar el fenómeno que estas analizando. 
+**No necesitas matemáticas para arrancar con data science, pero es una habilidad que necesitarás para dominar esta discplina**. Lo más importante es que entiendas e internalices los conceptos matemáticos clave. La computadora es la encargada de realizar los cálculos necesarios, por lo que debes concentrarte en conocer cuales son las herramientas matemáticas que pueden explicar el fenómeno que estas analizando. 
 
 Específicamente, necesitas saber lo siguiente:
 
@@ -92,7 +92,7 @@ Durante el Análisis Exploratorio de Datos, tendrás que aplicar los conceptos e
 En el caso de estadística avanzada, nos enfocamos a usar la estadística para explicar los algoritmos de machine learnig. En este caso, queremos usar datos históricos para predecir eventos o datos futuros. A esto lo llamamos estadística inferencial. Lo importante a entender es:
 
 - *Regresion lineal*: es decir, encontrar relaciones lineales entre conjuntos de datos. Por ejemplo, a más horas de ejercicio (variable correlacionada 1) habrá menos colesterol en la sangre (variable correlacionada 2). 
-- *Regresión logística y ensayos de Bernoulli*: en donde el resultado solo puede ser binario (cierto o faslso). Por ejemplo, una mujer está embarazada o no. 
+- *Regresión logística y ensayos de Bernoulli*: en donde el resultado solo puede ser binario (cierto o falso). Por ejemplo, una mujer está embarazada o no. 
 - *Clasificación estadística y Naive Bayes*: que nos ayudar a agrupar datos según sus características. Comprender esto te permitirá avanzar con algoritmos como KNN o clustering. 
 - *Series de Tiempo*: lo cual nos permite ver la evolución através del tiempo. Por ejemplo, precios de acciones en la bolsa de valores. 
 - *Estimadores de máxima verosimilitud*: que nos permite definir los parámetros para mejorar el desempeño de nuestro modelo. 
@@ -101,15 +101,16 @@ En el caso de estadística avanzada, nos enfocamos a usar la estadística para e
 
 La algebra lineal nos permite tener un entendimiento más afondo de los algoritmos de machine learning y como sacarles mayor provecho. En particular, vale la pena tener en cuenta lo siguiente:
 
-- *Normas de vectores y distancias euclidiantas*: que nos permite endender nuestras funciones de pérdida. Es decir, cuanto nuestro modelo deja de aprender a medida que procesa los datos.
-- *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado. 
+- *Normas de vectores y distancias euclidianas*: que nos permite endender nuestras funciones de pérdida. Es decir, cuanto nuestro modelo deja de aprender a medida que procesa los datos o lo muy alejado que se encuentra nuestra prediccion de la realidad.
+- *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado.
+- *Operaciones de Vectores y Matrices*: las cuales son utiles para debugar redes neuronales, transformar tu informacion e incluso optimizar calculos.
 - *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
 - *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
-- *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos. 
+- *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande y quieres reducirlo. 
 
 **Cálculo**
 
-Con cálculo podemos analisas las tasas de cambio de las cantidades. Esto genera curvas las cuales podemos medir según su longitud u area, que nos permite optimizar nuestros algoritmos de machine learning. En especial, necesitamos cálculos para: 
+Con cálculo podemos analizar las tasas de cambio de las cantidades. Esto genera curvas las cuales podemos medir según su longitud u area, que nos permite optimizar nuestros algoritmos de machine learning. En especial, necesitamos cálculos para: 
 
 - *Derivadas e integrales*: es decir, como podemos partir un problema en pedazos más pequeños y luego rearmarlos para entender tasas de cambio. 
 - *Gradiente descendente*: con el cual podemos reducir las pérdidas mientras entrenamos un modelo y medir el error de nuestras predicciones.
