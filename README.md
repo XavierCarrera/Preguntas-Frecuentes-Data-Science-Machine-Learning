@@ -2,6 +2,8 @@
 
 Desde que inicié este lindo recorrido llamado, me he dado cuenta que las personas tienen las mismas dudas. Ya sea cuando apenas están arrancando con esta disciplina u incluso si llevan algún tiempo. Lo que intento con esto es resumir algunas de las respuestas a preguntas frecuentes. Aquí también podrás encontrar recursos para cada una de ellas. 
 
+Mi recomendación es usar esto como una guía de estudio y un checklist de skills por desarrollar. 
+
 Si este repositorio es de valor para tí, no olvides darle fork y estrellita. 
 
 Sin más retraso, acá hay algunas de las preguntas más frecuentes entre las personas que estan estudiando Data Science y Machine Learning. 
@@ -58,35 +60,80 @@ El mayor valor de SQL para un data scientist es la posibilidad de hacer consulta
 
 Aunque NoSQL (es decir bases de datos basadas en documentos) no son parte común del trabajo de un científico de datos, conviene saber algo de MongoDB o Firebase para poder tener un acceso aún mayor a datos.
 
-## 4. ¿Que matemáticas necesito para data science?
-
-**No necesitas matemáticas para arrancar con data scientes, pero es una habilidad que necesitarás para dominar esta discplina**. 
-
-Específicamente, necesitas saber lo siguiente. 
-
-**Estadística básica**
-
-## 5. ¿Qué es machine learning?
+## 4. ¿Qué es machine learning?
 
 Machine learning es la parte de data science que se encarga de entrenar redes neuronales a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
 
 Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocaublario que le enseñenos. Si al niño le enseñamos groserias, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
 
-Habiendo dicho lo anterior, lo que hay que entender es que 
+Habiendo dicho lo anterior, lo que hay que entender es que
 
-## 6. ¿Y que hay con deep learning e inteligencia artificial?
+XXXX
+
+## 5. ¿Y que hay con deep learning e inteligencia artificial?
+
+## 6. ¿Que matemáticas necesito?
+
+**No necesitas matemáticas para arrancar con data scientes, pero es una habilidad que necesitarás para dominar esta discplina**. Lo más importante es que entiendas e internalices los conceptos matemáticos clave. La computadora es la encargada de realizar los cálculos necesarios, por lo que debes concentrarte en conocer cuales son las herramientas matemáticas que pueden explicar el fenómeno que estas analizando. 
+
+Específicamente, necesitas saber lo siguiente:
+
+**Estadística básica**
+
+Durante el Análisis Exploratorio de Datos, tendrás que aplicar los conceptos elementales de estadística. En un principio tienes un número de data points, los cuales necesitan ser comprendidos antes de ser procesdos en un modelo de machine o deep learning. Cuando queremos entender los datos, estamos hablando de estadística descrpitiva. Los conceptos clave a entender son:
+
+- *Media, moda, mediana*: lo cual nos dice que tan frecuentes son ciertos datos y nos permite identificar datos raros (mejor conocidos como outliers).
+- *Distribución, varianzas y desviaciones estándard*: con lo que podemos identificar rangos dentro de los cuales se encuentran la mayoría de nuestros datos.
+- *Teorema de Bayes y probabilidades condicionales*: : es decir la posibilidad de que ocurra un evento dado eventos o información previa. 
+- *Diseño de experimentos*: saber crear hipótesis que pondrás aprueba con la evidencia (datos) con la que dispongas. 
+
+**Estadística avanzada**
+
+En el caso de estadística avanzada, nos enfocamos a usar la estadística para explicar los algoritmos de machine learnig. En este caso, queremos usar datos históricos para predecir eventos o datos futuros. A esto lo llamamos estadística inferencial. Lo importante a entender es:
+
+- *Regresion lineal*: es decir, encontrar relaciones lineales entre conjuntos de datos. Por ejemplo, a más horas de ejercicio (variable correlacionada 1) habrá menos colesterol en la sangre (variable correlacionada 2). 
+- *Regresión logística y ensayos de Bernoulli*: en donde el resultado solo puede ser binario (cierto o faslso). Por ejemplo, una mujer está embarazada o no. 
+- *Clasificación estadística y Naive Bayes*: que nos ayudar a agrupar datos según sus características. Comprender esto te permitirá avanzar con algoritmos como KNN o clustering. 
+- *Series de Tiempo*: lo cual nos permite ver la evolución através del tiempo. Por ejemplo, precios de acciones en la bolsa de valores. 
+- *Estimadores de máxima verosimilitud*: que nos permite definir los parámetros para mejorar el desempeño de nuestro modelo. 
+
+**Algebra lineal**
+
+La algebra lineal nos permite tener un entendimiento más afondo de los algoritmos de machine learning y como sacarles mayor provecho. En particular, vale la pena tener en cuenta lo siguiente:
+
+- *Normas de vectores y distancias euclidiantas*: que nos permite endender nuestras funciones de pérdida. Es decir, cuanto nuestro modelo deja de aprender a medida que procesa los datos.
+- *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado. 
+- *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
+- *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
+- *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos. 
+
+**Cálculo**
+
+Con cálculo podemos analisas las tasas de cambio de las cantidades. Esto genera curvas las cuales podemos medir según su longitud u area, que nos permite optimizar nuestros algoritmos de machine learning. En especial, necesitamos cálculos para: 
+
+- *Gradiente descendente*: Con el cual podemos reducir las pérdidas mientras entrenamos un modelo y medir el error de nuestras predicciones.
+
+Las matemáticas suelen ser un tema que asusta y detiene a muchas personas para entrar a data science y machine learning. Mi consejo es: no te preocupes por hacer cálculos (para eso tienes la computadora). Más bien enfócate en desarrollar un pensamiento probablístico y matemático que te lleve a a saber seleccionar la mejor solución para el problema que te estas enfrentando. 
+
+Finalmente, es estadísticamente probable que estes enfrentando un problema que alguien más ya soluciono. La clave del éxito es montarte en hombros de gigante y aprovechar los recursos ya existentes. 
 
 ## 7. ¿Que quiere decir conocimientos de negocio?
 
-## 8. ¿Que debería de saber sobre ingenieria de software/web?
+## 8. ¿Que hay que saber sobre visualización de datos?
 
-## 9. ¿Cual es el flujo de trabajo de un data scientist?
+## 9. ¿Que debería de saber sobre ingenieria de software/web?
 
-## 10. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
+## 10. ¿Cual es el flujo de trabajo de un data scientist?
 
-## 11. ¿Que hay sobre la parte legal y ética?
+## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
 
-## 11. ¿Cuales son las opotunidades laborales?
+## 12. ¿Que hay sobre la parte legal y ética?
+
+## 13. ¿Cuales son las opotunidades laborales?
+
+## Algunos pensamientos finales
+
+## Recursos externos
 
 ## Contacto 
 
