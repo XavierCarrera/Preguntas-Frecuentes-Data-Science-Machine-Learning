@@ -62,15 +62,25 @@ Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimiz
 
 ## 4. ¿Qué es machine learning?
 
-Machine learning es la parte de data science que se encarga de ensñarle a las maquinas una habilidad que no puede ser directamente programada, a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
+Machine learning es la parte de data science que se encarga de enseñarle a las maquinas una habilidad que no puede ser directamente programada, a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
 
 Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocaublario que le enseñenos. Si al niño le enseñamos groserias, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
 
-Habiendo dicho lo anterior, lo que hay que entender es que
+Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinopsis (unión) de neuronas (nodos). 
 
 XXXX
 
+Una gran ventaja del uso de librerías como ScikitLearn es que estas redes neuronales ya vienen preconstruidas. Por ende, nosotros debemos de preocuparnos solo de los datos que usaremos para entrenar el modelo y los parámetros que optimizaran el aprendizaje. 
+
 ## 5. ¿Y que hay con deep learning e inteligencia artificial?
+
+La diferencia entre Deep learning o aprendizaje profundo y machine learning es que Deep Learning usa más de dos capas para entrenar a un modelo. 
+
+A nivel práctico, los modelos de deep learning se realizan con librerías como TensorFlow y Pytorch. Además de que los problemas que resolvemos en machine learning  tienden a ser enfocados a predecir unidimensionalidades. Es decir: cifras numéricas o textos. En deep learning, las predicciones están más orientadas a identificar multidimensionalidades. Es decir: imágenes, video, audio, etc. 
+
+Otra consideración a la hora de trabajar con Deep Learning es que las librerías con las que trabajamos son de bajo nivel. Lo anterior quiere decir que en TensforFlow y Pytorch debemos de tener más cuidado al diseñar las capas, nodos, tasas de aprendizaje y funciones de activación a diferencia de librerías de alto nivel como Scikit Learn. 
+
+En cuanto Inteligencia Artificial, tanto machine como deep learning son insumos para diseñar inteligencias artificiales. Cuando realizamos una predicción con Machine o Deep Learning ya estamos creando una inteligencia artificial. Por ende, debemos de tener cuidado de los datos que utilizamos para entrenar a nuestra Inteligencia Artificial.
 
 ## 6. ¿Que matemáticas necesito?
 
@@ -121,9 +131,42 @@ Finalmente, es estadísticamente probable que estes enfrentando un problema que 
 
 ## 7. ¿Que quiere decir conocimientos de negocio?
 
+Al hablar de conocimiento de negocio nos referimos a responder preguntas como:
+
+- *¿Cual es el objetivo de negocio?*
+- *¿Cuales son las métricas para medir el éxito del negocio?*
+- *¿De donde obtenemos datos para tomar decisiones?*
+- *¿Cuales son los datos de valor para el negocio?*
+
+Es importante a tomar en cuenta que los científicos de datos son aquellos que conocen mejor que nadie los datos más importantes de una empresa. Por un lado, un analista de datos o business intelligence se encarga de obtener todos los datos para presentarlos y facilitar la toma de decisiones. La gran diferencia que tienen con un científico de datos es que este último puede hacer uso de machine learning (estadística inferencial) para hacer proyecciones sobre lo que podría suceder con el negocio.
+
 ## 8. ¿Que hay que saber sobre visualización de datos?
 
+Comunmente se dice que el data scientist es un story teller. Esto es cierto en el sentido que debe de reconstruir hechos para explicar un fenómeno. Debes de considerar también que como científico de datos, debes de presentar la información a personas que tienes menos conocimientos matemáticos que tú. La forma más adecuada de hacerlo es através de gráficos. 
+
+Lo más recomendable es estudiar para que sirven cada uno de los diferentes gráficos. Así mismo, toma en cuenta sus caracaterísticas únicas para sacarle mayor jugo. 
+
+Matplotlib, Seaborn y Plolty son las librerías principales si programas en Python, mientras ggplot es ideal para R. Fuera del código, vale la pena familiarizarse con Google Data Studio y Tableau para la creación de tableros. 
+
+Por último, recuerda que la visualización de gráficas y la estadística se  pueden usar para confundir o engañar. Hacer uso responsable de estas herramientas es parte importante del trabajo de un científico de datos.
+
+## 9. ¿Jupyter Notebooks o Google Colab?
+
+Un Jupyter Notebook es parte de la colección Anaconda que tiene casí todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
+
+Por su lado, Google Colab tiene casi todas las librerías precargadas y no hay necesidad de instalarlas usando pip. 
+
+Es cuestión de gusto personal cual de los dos usar. La ventaja de Jupypter Notebook es que corre en local host, por lo que no dependes de tu conexión de internet para trabajar. Por otra parte, Anaconda es muy pesado cuando se instalan sus paquetes. Por ello conviene en ese caso trabajar en un Colab, ya que además ofrece memoria RAM suficiente para trabajar. 
+
 ## 9. ¿Que debería de saber sobre ingenieria de software/web?
+
+Idealmente, como científico de datos debería de tener una idea clara de como es el desarrollo de software. 
+
+Una de los grandes problemas del gremio es que son muchos los data scientists que solo saben trabajar con Jupyter Notebooks. Es por ello que vale la pena construir ventajas competitivas. Entre las más importantes incluyen:
+
+- Conocer un framework de backend. Si estás trabajando con Python, es recomendable empezar con Django. Aunque Flask o FastAPI con más fáciles de aprender y operar, la mayoría de proyectos 
+- Cloud, como aquellos que mencionamos en la pregunta 3.
+- DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
 ## 10. ¿Cual es el flujo de trabajo de un data scientist?
 
