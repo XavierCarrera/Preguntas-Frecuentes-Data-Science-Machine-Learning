@@ -164,7 +164,7 @@ Idealmente, como científico de datos debería de tener una idea clara de como e
 
 Una de los grandes problemas del gremio es que son muchos los data scientists que solo saben trabajar con Jupyter Notebooks. Es por ello que vale la pena construir ventajas competitivas. Entre las más importantes incluyen:
 
-- Conocer un framework de backend. Si estás trabajando con Python, es recomendable empezar con Django. Aunque Flask o FastAPI con más fáciles de aprender y operar, la mayoría de proyectos 
+- Conocer un framework de backend. Si estás trabajando con Python, es recomendable empezar con Django. Aunque Flask o FastAPI con más fáciles de aprender y operar, la mayoría de proyectos profesionales son desarrollados en Django. 
 - Cloud, como aquellos que mencionamos en la pregunta 3.
 - DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
