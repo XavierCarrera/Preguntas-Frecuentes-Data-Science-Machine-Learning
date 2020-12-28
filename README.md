@@ -25,40 +25,40 @@ Para ser un científico de datos hay que desarrollar estas tres areas. También 
 
 Para cada una de estas subramas, las habilidades especificas que necesitas son las siguientes:
 
-
+![Skills data science](https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png)
 
 ## 2. ¿Que lenguajes de programación necesito para data science?
 
 **Python y/o R, dependiendo de los objetivos que tengas**. Los conceptos clave que son importantes entender antes de brincar a data science es la programación orientada a objetos y la estrutura de datos. El uso de librerías también es imoprtante ya que tienen cargados todos los módulos para facilitar tu trabajo. 
 
-Python es un lenguaje multipropósito, el cual funciona bien si tu trabajo estará vinculado al equipo de desarrollo. Las librerías más importantes que deberías dominar si optas por Python son:
+[Python](https://docs.python.org/) es un lenguaje multipropósito, el cual funciona bien si tu trabajo estará vinculado al equipo de desarrollo. Las librerías más importantes que deberías dominar si optas por Python son:
 
-- *Numpy* tiene varias funcionalidades de algebra lineal, que te permiten trabajar con vectores (arrays y columnas) y matrices (arrays de arrays y tablas).
-- Pandas: que te permite procesar matrices como si fueran tablas de Exel y manipular datos. También es de utilidad para exportar datos en formato json, excel, csv y más. 
-- *SciPy*: sirve para tener muchas de las funciones estadísticas para trabajar.
-- *Matplotlib*: es la librería principal para visualizar datos, aunque también puedes mirar Plolty y Seaborn.
-- *Scikit Learn*: que tiene varios modulos para realizar machine learning (más de esto a continuación). 
-- *TensorFlow y Pytorch*: que son las librerías principales para deep learning (más de esto a continuación). 
+- [*Numpy*](https://numpy.org/doc/) tiene varias funcionalidades de algebra lineal, que te permiten trabajar con vectores (arrays y columnas) y matrices (arrays de arrays y tablas).
+- [*Pandas*](https://pandas.pydata.org/docs/): que te permite procesar matrices como si fueran tablas de Exel y manipular datos. También es de utilidad para exportar datos en formato json, excel, csv y más. 
+- [*SciPy*](https://www.scipy.org/docs.html): sirve para tener muchas de las funciones estadísticas para trabajar.
+- [*Matplotlib*](https://matplotlib.org/3.3.3/contents.html): es la librería principal para visualizar datos, aunque también puedes mirar Plolty y Seaborn.
+- [*Scikit Learn*](https://scikit-learn.org/): que tiene varios modulos para realizar machine learning (más de esto a continuación). 
+- [*TensorFlow*](https://www.tensorflow.org/api_docs) y [*Pytorch*](https://pytorch.org/docs/stable/index.html): que son las librerías principales para deep learning (más de esto a continuación). 
 
-R es un lenguaje para uso estadístico y es recomendable aprender cuando no estarás trabajando directamente con un equipo de desarrollo. Las librerías más importantes para data science son: 
+[R](https://www.rdocumentation.org/) es un lenguaje para uso estadístico y es recomendable aprender cuando no estarás trabajando directamente con un equipo de desarrollo. Las librerías más importantes para data science son: 
 
-- *ggplot2*: que es la librería principal para visualización de datos. 
-- *dplyr y tidy*: con los cuales puedes hacer manipulación de datos. 
-- *mlr3*: que es la libreria principal para machine learning. Otras librerías interesantes son caret y XGBoost.
+- [*ggplot2*](https://ggplot2.tidyverse.org/reference/): que es la librería principal para visualización de datos. 
+- [*dplyr*](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8) y [*tidy*](http://www.html-tidy.org/documentation/): con los cuales puedes hacer manipulación de datos. 
+- [*mlr3*](https://mlr3.mlr-org.com/): que es la libreria principal para machine learning. Otras librerías interesantes son caret y XGBoost.
 
-Existen otros lenguajes con los que se puede trabajar en Data Science, como Java, JavaScript o Ruby. Pero lo más recomendable es iniciar con Python y/o R. 
+Existen otros lenguajes con los que se puede trabajar en Data Science, como [Java](https://towardsdatascience.com/when-to-use-java-as-a-data-scientist-74e5f2ec8c80), [JavaScript](https://js4ds.org/) o [Ruby](https://medium.com/@wowinter13/the-good-the-bad-and-the-ugly-aka-ruby-data-science-f6b729b2bf35). Pero lo más recomendable es iniciar con Python y/o R. 
 
 Toma en consideración aprender a **usar otras herramientas fuera de la programación para el análisis y visualización de datos**. Algunas de las más importantes son Excel, Power BI Tableau o Google Data Studio. 
 
 ## 3. ¿Que necesito saber de SQL?
 
-El mayor valor de SQL para un data scientist es la posibilidad de hacer consultas a la bases de datos. Con SQL puedes crear, modificar, administrar y eliminar bases de datos y columnas. Sin embargo, esta no es tradicionalmente la tarea de un científico de datos. 
+**El mayor valor de [SQL](https://dev.mysql.com/doc/) para un data scientist es la posibilidad de hacer consultas a la bases de datos**. Con SQL puedes crear, modificar, administrar y eliminar bases de datos y columnas. Sin embargo, esta no es tradicionalmente la tarea de un científico de datos. 
 
 - El primer paso para aprender SQL es conocer como realizar consultas usando el standard del lenguage. Es decir, las sentencias SELECT, FROM, WHERE, ORDER BY, GROUP BY, HAVING, AS, WITH y los diferentes JOINS. 
-- Despues puedes avanzar a funciones más avanzadas como window functions o trigger functions. Estas pertencen a las particularidades de motores de bases de datos como MySQL, PostgreSQL, Oracle o SQL Server. 
-- Finalmente, aprender sobre soluciones de cloud como (Amazon Web Services, Google Cloud Platform, Azure, IBM, etc) es importantísimo para aprovechar las bondades de la Big Data (es decir, los millones de tera bytes disponibles). En este sentido, conviene enfocarse a las búsquedas columnares. 
+- Despues puedes avanzar a funciones más avanzadas como window functions o trigger functions. Estas pertencen a las particularidades de motores de bases de datos como [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Oracle](https://www.oracle.com/mx/index.html) o [SQL Server](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads). 
+- Finalmente, aprender sobre soluciones de cloud como ([Amazon Web Services](https://aws.amazon.com/), [Google Cloud Platform](https://cloud.google.com/), [Azure](https://azure.microsoft.com/es-mx/), [IBM Cloud](https://cloud.ibm.com/), etc) es importantísimo para aprovechar las bondades de la Big Data (es decir, los millones de tera bytes disponibles). En este sentido, conviene enfocarse a las búsquedas columnares. 
 
-Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimizadas para busqueda, para memoria o basadas en grafos) no son parte común del trabajo de un científico de datos, conviene saber algo de MongoDB o Firebase para poder tener un acceso aún mayor a datos.
+Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimizadas para busqueda, para memoria o basadas en grafos) no son parte común del trabajo de un científico de datos, conviene saber algo de [MongoDB](https://www.mongodb.com/es) o [Firebase](https://firebase.google.com/?hl=es) para poder tener un acceso aún mayor a datos.
 
 ## 4. ¿Qué es machine learning?
 
@@ -68,13 +68,15 @@ Una forma fácil de imaginar esto es que nuestro modelo es un niño que está ap
 
 Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinopsis (unión) de neuronas (nodos). 
 
-XXXX
+![Red neuronal machine learning](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg)
 
 Una gran ventaja del uso de librerías como ScikitLearn es que estas redes neuronales ya vienen preconstruidas. Por ende, nosotros debemos de preocuparnos solo de los datos que usaremos para entrenar el modelo y los parámetros que optimizaran el aprendizaje. 
 
 ## 5. ¿Y que hay con deep learning e inteligencia artificial?
 
 La diferencia entre Deep learning o aprendizaje profundo y machine learning es que Deep Learning usa más de dos capas para entrenar a un modelo. 
+
+![Deep learning](https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg)
 
 A nivel práctico, los modelos de deep learning se realizan con librerías como TensorFlow y Pytorch. Además de que los problemas que resolvemos en machine learning  tienden a ser enfocados a predecir unidimensionalidades. Es decir: cifras numéricas o textos. En deep learning, las predicciones están más orientadas a identificar multidimensionalidades. Es decir: imágenes, video, audio, etc. 
 
@@ -152,9 +154,9 @@ Por último, recuerda que la visualización de gráficas y la estadística se  p
 
 ## 9. ¿Jupyter Notebooks o Google Colab?
 
-Un Jupyter Notebook es parte de la colección Anaconda que tiene casí todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
+Un [Jupyter Notebook](https://jupyter.org/) es parte de la colección [Anaconda](https://www.anaconda.com/products/individual) que tiene casí todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
 
-Por su lado, Google Colab tiene casi todas las librerías precargadas y no hay necesidad de instalarlas usando pip. 
+Por su lado, [Google Colab](https://colab.research.google.com/) tiene casi todas las librerías precargadas y no hay necesidad de instalarlas usando pip. 
 
 Es cuestión de gusto personal cual de los dos usar. La ventaja de Jupypter Notebook es que corre en local host, por lo que no dependes de tu conexión de internet para trabajar. Por otra parte, Anaconda es muy pesado cuando se instalan sus paquetes. Por ello conviene en ese caso trabajar en un Colab, ya que además ofrece memoria RAM suficiente para trabajar. 
 
