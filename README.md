@@ -160,7 +160,7 @@ Por su lado, [Google Colab](https://colab.research.google.com/) tiene casi todas
 
 Es cuestión de gusto personal cual de los dos usar. La ventaja de Jupypter Notebook es que corre en local host, por lo que no dependes de tu conexión de internet para trabajar. Por otra parte, Anaconda es muy pesado cuando se instalan sus paquetes. Por ello conviene en ese caso trabajar en un Colab, ya que además ofrece memoria RAM suficiente para trabajar. 
 
-## 9. ¿Que debería de saber sobre ingenieria de software/web?
+## 10. ¿Que debería de saber sobre ingenieria de software/web?
 
 Idealmente, como científico de datos debería de tener una idea clara de como es el desarrollo de software. 
 
@@ -170,13 +170,21 @@ Una de los grandes problemas del gremio es que son muchos los data scientists qu
 - Cloud, como aquellos que mencionamos en la pregunta 3.
 - DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
-## 10. ¿Cual es el flujo de trabajo de un data scientist?
+## 11. ¿Cual es el flujo de trabajo de un data scientist?
 
-## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
+## 12. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
 
-## 12. ¿Que hay sobre la parte legal y ética?
+## 13. ¿Que hay sobre la parte legal y ética?
 
-## 13. ¿Cuales son las opotunidades laborales?
+Cada país tiene sus propias leyes respecto al uso de datos. Por lo general, dentro de las empresas **los data scientists no son los responsables directos de hacer cumplir estos reglamentos**. Sin embargo, conviene saber sobre lo siguiente:
+
+- Los datos solo son de valor para el científico de datos cuando vienen en volumen. Ergo, los datos individuales de un usuario no sirven para el trabajo cotidiano en nuestra area.
+- Al hacer el análisis de los datos, hay que procurar que vengan anonimizados. Lo anterior es especialmente importante si son datos bancarios o médicos.
+- Conocer un poco de seguridad informática (sobre todo respecto a las buensa prácticas del almacenamiento y tratamiento de datos) es recomendable. 
+
+## 14. ¿Cuales son las opotunidades laborales?
+
+Dentro de la industria tech, [**data science es de las disciplinas de mayor demanda laboral**](https://www.xataka.com/otros/cientifico-datos-asi-profesion-demandada). Debido a que son muchos los puestos que quedan vacantes para esta posición y pocos los solicitantes, los sueldos en esta area son bastante más elevados en comparación a otros roles en la industria.  
 
 ## Algunos pensamientos finales
 
@@ -184,3 +192,6 @@ Una de los grandes problemas del gremio es que son muchos los data scientists qu
 
 ## Contacto 
 
+Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Pedromo. 
+
+Si quieres contactar con Xavier, puedes visitar su [sitio web](https://www.xaviercarrera.com/), escribirle [en twitter](https://twitter.com/XaviGrowth) o mandarle un correo a hola@xaviercarrera.com.
