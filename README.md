@@ -18,7 +18,7 @@ La ciencia de datos son básicamente tres cosas:
 
 Para ser un científico de datos hay que desarrollar estas tres areas. También hay que tener en cuenta que Data Science tiene varias subramas:
 
-- **Análisis de Datos y Business Intelligence**: que se encarga de tomar los datos recogidos para analisis respecto a una necesidad de negocio y ayudar a los líderes a toamr decisiones basadas en datos. 
+- **Análisis de Datos y Business Intelligence**: que se encarga de tomar los datos recogidos para analisis respecto a una necesidad de negocio y ayudar a los líderes a tomar decisiones basadas en datos. 
 - **Ingenieria y Arquitectura de Datos**: que se encarga del proceso de ETL (extraer, transformar y cargar). Es decir, tomar datos de diferentes fuentes (bases de datos, web scraping, APIs, etc), limpiar los datos y entregarlos en un sitio donde los científicos de datos podrán disponer de ellos (data warehouses, bases de datos, cloud, etc).
 - **Científico de datos**: que se encarga de tareas similares al analista de datos, aunado a utilizar la data disponible para entrenar modelos de machine learning.
 - **Ingenieros de Machine Learning, Deep Learning e Inteligencia Artificial**: que se encargan no solo de entrenar modelos con la data discponible, sino también desplegarlos para que sigan siendo re-entrenados con data entrante.
@@ -29,7 +29,7 @@ Para cada una de estas subramas, las habilidades especificas que necesitas son l
 
 ## 2. ¿Que lenguajes de programación necesito para data science?
 
-**Python y/o R, dependiendo de los objetivos que tengas**. Los conceptos clave que son importantes entender antes de brincar a data science es la programación orientada a objetos y la estrutura de datos. El uso de librerías también es imoprtante ya que tienen cargados todos los módulos para facilitar tu trabajo. 
+**Python y/o R, dependiendo de los objetivos que tengas**. Los conceptos clave que son importantes entender antes de brincar a data science es la programación orientada a objetos y las estruturas de datos. El uso de librerías también es imoprtante ya que tienen cargados todos los módulos para facilitar tu trabajo. 
 
 [Python](https://docs.python.org/) es un lenguaje multipropósito, el cual funciona bien si tu trabajo estará vinculado al equipo de desarrollo. Las librerías más importantes que deberías dominar si optas por Python son:
 
@@ -48,7 +48,7 @@ Para cada una de estas subramas, las habilidades especificas que necesitas son l
 
 Existen otros lenguajes con los que se puede trabajar en Data Science, como [Java](https://towardsdatascience.com/when-to-use-java-as-a-data-scientist-74e5f2ec8c80), [JavaScript](https://js4ds.org/) o [Ruby](https://medium.com/@wowinter13/the-good-the-bad-and-the-ugly-aka-ruby-data-science-f6b729b2bf35). Pero lo más recomendable es iniciar con Python y/o R. 
 
-Toma en consideración aprender a **usar otras herramientas fuera de la programación para el análisis y visualización de datos**. Algunas de las más importantes son Excel, Power BI Tableau o Google Data Studio. 
+Toma en consideración aprender a **usar otras herramientas fuera de la programación para el análisis y visualización de datos**. Algunas de las más importantes son [Excel](https://towardsdatascience.com/excel-for-data-science-a82247670d7a), [Power BI](https://towardsdatascience.com/tagged/power-bi), [Tableau](https://towardsdatascience.com/is-tableau-useful-for-data-scientists-46d355a14b62) o [Google Data Studio](https://towardsdatascience.com/tagged/google-data-studio). 
 
 ## 3. ¿Que necesito saber de SQL?
 
@@ -62,15 +62,21 @@ Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimiz
 
 ## 4. ¿Qué es machine learning?
 
-Machine learning es la parte de data science que se encarga de enseñarle a las maquinas una habilidad que no puede ser directamente programada, a partir de datos entrantes. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. De esta manera podemos hacer predicciones a partir de datos históricos. 
+Machine learning es la parte de data science que se encarga de crear modelos que generen predicciones a partid de datos históricos. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. 
 
 Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocaublario que le enseñenos. Si al niño le enseñamos groserias, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
 
-Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinopsis (unión) de neuronas (nodos). 
+Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinopsis (unión) de neuronas (nodos). Los nodos se las redes neuronales están divididos en nodos de entrada, nodos en capas escondidas y nodos de salida. 
 
 ![Red neuronal machine learning](https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg)
 
 Una gran ventaja del uso de librerías como ScikitLearn es que estas redes neuronales ya vienen preconstruidas. Por ende, nosotros debemos de preocuparnos solo de los datos que usaremos para entrenar el modelo y los parámetros que optimizaran el aprendizaje. 
+
+Para poder realizar machine learning adecuadamente es recomendable analizar bien el problema que atendemos para saber que algoritmo es el más recomendable.
+
+![Cheat sheet machine learning](https://scikit-learn.org/stable/_static/ml_map.png)
+
+Al mismo tiempo, hay que conocer la teoría detrás de estos algoritmos (en gran medida basada en estadística bayesiana). Aunque puedes empezar haciendo machine leaning sin conocimientos matemáticos, es importante que evenutalmente también seas consciente de eso para poder optimizar mejor tus modelos. 
 
 ## 5. ¿Y que hay con deep learning e inteligencia artificial?
 
@@ -82,7 +88,7 @@ A nivel práctico, los modelos de deep learning se realizan con librerías como 
 
 Otra consideración a la hora de trabajar con Deep Learning es que las librerías con las que trabajamos son de bajo nivel. Lo anterior quiere decir que en TensforFlow y Pytorch debemos de tener más cuidado al diseñar las capas, nodos, tasas de aprendizaje y funciones de activación a diferencia de librerías de alto nivel como Scikit Learn. 
 
-En cuanto Inteligencia Artificial, tanto machine como deep learning son insumos para diseñar inteligencias artificiales. Cuando realizamos una predicción con Machine o Deep Learning ya estamos creando una inteligencia artificial. Por ende, debemos de tener cuidado de los datos que utilizamos para entrenar a nuestra Inteligencia Artificial.
+En cuanto Inteligencia Artificial, tanto machine como deep learning son insumos para diseñar inteligencias artificiales. Cuando realizamos una predicción con Machine o Deep Learning ya estamos creando una inteligencia artificial. Por ende, debemos de tener cuidado de los datos que utilizamos para entrenarla.
 
 ## 6. ¿Que matemáticas necesito?
 
@@ -105,7 +111,7 @@ En el caso de estadística avanzada, nos enfocamos a usar la estadística para e
 
 - *Regresion lineal*: es decir, encontrar relaciones lineales entre conjuntos de datos. Por ejemplo, a más horas de ejercicio (variable correlacionada 1) habrá menos colesterol en la sangre (variable correlacionada 2). 
 - *Regresión logística y ensayos de Bernoulli*: en donde el resultado solo puede ser binario (cierto o falso). Por ejemplo, una mujer está embarazada o no. 
-- *Clasificación estadística y Naive Bayes*: que nos ayudar a agrupar datos según sus características. Comprender esto te permitirá avanzar con algoritmos como KNN o clustering. 
+- *Clasificación estadística y Naive Bayes*: que nos ayuda a agrupar datos según sus características. Comprender esto te permitirá avanzar con algoritmos como KNN o clustering. 
 - *Series de Tiempo*: lo cual nos permite ver la evolución através del tiempo. Por ejemplo, precios de acciones en la bolsa de valores. 
 - *Estimadores de máxima verosimilitud*: que nos permite definir los parámetros para mejorar el desempeño de nuestro modelo. 
 
