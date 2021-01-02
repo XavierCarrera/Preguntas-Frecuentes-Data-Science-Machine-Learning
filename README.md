@@ -211,9 +211,10 @@ Dentro de la industria tech, [**data science es de las disciplinas de mayor dema
 - El mejor lugar para conseguir retos y ejercicios es [Kaggle](https://www.kaggle.com).
 - Dentro de Kaggle podrás encontrar cursos gratuitos de [Python](https://www.kaggle.com/learn/python), [SQL](https://www.kaggle.com/learn/intro-to-sql) y [más](https://www.kaggle.com/learn/overview). 
 - Cursos pagados que valen la pena incluyen [Platzi](https://platzi.com/datos/), [Data Camp](https://www.datacamp.com/) y [Data Quest](https://www.dataquest.io/)
-- Un excelente recurso gratuito para aprender estadística es [Crash Course Statisctics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+- Un excelente recurso gratuito para aprender estadística es [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 - Otro recurso de paga que recomiendo para aprender matemáticas es [Brilliant](https://brilliant.org/)
 - [Stack Overflow](https://stackoverflow.com/) y [Towards Data Science](https://towardsdatascience.com/) son recursos válidos para encontrar respuestas a problemas comunes de data science.
+- Algunas certificaciones que valen la pena tomar incluyen [AWS para Machine Learning](https://aws.amazon.com/es/machine-learning/) y [Google Cloud Platform para Ingenieria de Datos](https://cloud.google.com/certification/data-engineer).
 
 Finalmente, **es fundamental siempre consultar la documentación de las tecnologías que usamos y mantener bien documentados nuestros propios proyectos para futura referencia**. 
 
