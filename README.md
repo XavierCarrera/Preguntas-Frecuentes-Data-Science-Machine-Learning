@@ -176,11 +176,24 @@ Una de los grandes problemas del gremio es que son muchos los data scientists qu
 - Cloud, como aquellos que mencionamos en la pregunta 3.
 - DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
-## 11. ¿Cual es el flujo de trabajo de un data scientist?
+## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
+**Entre 6 meses y 2 años** es un periodo sensato para adquirir las habiliades para data science, dependiendo de las habilidades/conocimientos previos que se tengan y el tiempo invertido para aprender.
 
-## 12. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
+Aunque nada esta escrito sobre piedra, esta es una estimación del tiempo que toma para conocer cada una de los skills para data science:
 
-## 13. ¿Que hay sobre la parte legal y ética?
+(Nota: estamos hablando de obtener los conocimientos para usar estas herramientas para data science, más no en su completitud. Por ejemplo, en SQL nos referimos a hacer queries complejos, más no crear, administrar u optimizar una base de datos)
+
+| Skill | 1 hora diaria | 1 - 2 horas diarias | 2 - 4 horas diarias |
+| ------------- | ------------- | ------------- | ------------- |
+| Python o R  | 16-20 semanas  | 10-16 semanas | 8-10 semanas |
+| SQL  | 6-8 semanas  | 4-6 semanas | 2-4 semanas |
+| Estadística  | 12-16 semanas  | 4-12 semanas | 4-5 semanas |
+| Algebra lineal  | 12-16 semanas  | 6-12 semanas | 4-8 semanas |
+| Cálculo  | 12-16 semanas  | 6-12 semanas | 4-8 semanas |
+| Cloud  | 6-10 semanas  | 3-6 semanas | 2-3 semanas |
+| Machine Learning  | 8-12 semanas  | 6-8 semanas | 4-6 semanas |
+
+## 12. ¿Que hay sobre la parte legal y ética?
 
 Cada país tiene sus propias leyes respecto al uso de datos. Por lo general, dentro de las empresas **los data scientists no son los responsables directos de hacer cumplir estos reglamentos**. Sin embargo, conviene saber sobre lo siguiente:
 
@@ -188,16 +201,23 @@ Cada país tiene sus propias leyes respecto al uso de datos. Por lo general, den
 - Al hacer el análisis de los datos, hay que procurar que vengan anonimizados. Lo anterior es especialmente importante si son datos bancarios o médicos.
 - Conocer un poco de seguridad informática (sobre todo respecto a las buensa prácticas del almacenamiento y tratamiento de datos) es recomendable. 
 
-## 14. ¿Cuales son las opotunidades laborales?
+## 13. ¿Cuales son las opotunidades laborales?
 
 Dentro de la industria tech, [**data science es de las disciplinas de mayor demanda laboral**](https://www.xataka.com/otros/cientifico-datos-asi-profesion-demandada). Debido a que son muchos los puestos que quedan vacantes para esta posición y pocos los solicitantes, los sueldos en esta area son bastante más elevados en comparación a otros roles en la industria.  
 
-## Algunos pensamientos finales
-
 ## Recursos externos
+
+- El mejor lugar para conseguir retos y ejercicios es [Kaggle](https://www.kaggle.com).
+- Dentro de Kaggle podrás encontrar cursos gratuitos de [Python](https://www.kaggle.com/learn/python), [SQL](https://www.kaggle.com/learn/intro-to-sql) y [más](https://www.kaggle.com/learn/overview). 
+- Cursos pagados que valen la pena incluyen [Platzi](https://platzi.com/datos/), [Data Camp](https://www.datacamp.com/) y [Data Quest](https://www.dataquest.io/)
+- Un excelente recurso gratuito para aprender estadística es [Crash Course Statisctics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+- Otro recurso de paga que recomiendo para aprender matemáticas es [Brilliant](https://brilliant.org/)
+
+(Nota: he utilizado todos estos recursos y no recibó ninguna comisión por promoverlos)
 
 ## Contacto 
 
 Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Pedromo. 
 
 Si quieres contactar con Xavier, puedes visitar su [sitio web](https://www.xaviercarrera.com/), escribirle [en twitter](https://twitter.com/XaviGrowth) o mandarle un correo a hola@xaviercarrera.com.
+-
