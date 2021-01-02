@@ -179,7 +179,7 @@ Una de los grandes problemas del gremio es que son muchos los data scientists qu
 ## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
 **Entre 6 meses y 2 años** es un periodo sensato para adquirir las habiliades para data science, dependiendo de los conocimientos previos que se tengan y el tiempo invertido para aprender.
 
-Aunque nada esta escrito sobre piedra, esta es una estimación del tiempo que toma para conocer cada una de los skills para data science:
+Aunque nada esta escrito sobre piedra, esta es una estimación vaga de tiempo para aprender cada una de los skills para data science:
 
 (Nota: estamos hablando de obtener los conocimientos para usar estas herramientas para data science, más no en su completitud. Por ejemplo, en SQL nos referimos a hacer queries complejos, más no crear, administrar u optimizar una base de datos)
 
@@ -192,6 +192,7 @@ Aunque nada esta escrito sobre piedra, esta es una estimación del tiempo que to
 | Cálculo  | 12-16 semanas  | 6-12 semanas | 4-8 semanas |
 | Cloud  | 6-10 semanas  | 3-6 semanas | 2-3 semanas |
 | Machine Learning  | 8-12 semanas  | 6-8 semanas | 4-6 semanas |
+| Django  | 8-16 semanas  | 6-10 semanas | 4-8 semanas |
 
 ## 12. ¿Que hay sobre la parte legal y ética?
 
