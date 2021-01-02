@@ -177,7 +177,7 @@ Una de los grandes problemas del gremio es que son muchos los data scientists qu
 - DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
 ## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
-**Entre 6 meses y 2 años** es un periodo sensato para adquirir las habiliades para data science, dependiendo de las habilidades/conocimientos previos que se tengan y el tiempo invertido para aprender.
+**Entre 6 meses y 2 años** es un periodo sensato para adquirir las habiliades para data science, dependiendo de los conocimientos previos que se tengan y el tiempo invertido para aprender.
 
 Aunque nada esta escrito sobre piedra, esta es una estimación del tiempo que toma para conocer cada una de los skills para data science:
 
