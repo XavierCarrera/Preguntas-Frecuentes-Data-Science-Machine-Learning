@@ -26,7 +26,7 @@ Para ser un científico de datos hay que desarrollar estas tres areas. También 
 Para cada una de estas subramas, las habilidades especificas que necesitas son las siguientes:
 <br></br>
 <p align="center">
-    <img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
+    <img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png" alt="Data Science Skills">
 </p>
 <p align="center">Fig 1. Data Science Skills</p>
 
@@ -72,7 +72,7 @@ Una forma fácil de imaginar esto es que nuestro modelo es un niño que está ap
 Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinapsis (unión) de neuronas (nodos). Los nodos se las redes neuronales están divididos en nodos de entrada, nodos en capas escondidas y nodos de salida.
 <br></br>
 <p align="center">
-    <img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:60%">
+    <img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg" alt="Data Science Skills">
 </p>
 <p align="center">Fig 2. Red Neuronal, machine learning</p>
 
@@ -80,8 +80,10 @@ Una gran ventaja del uso de librerías como Scikit Learn es que lo modelos ya es
 
 Para poder realizar machine learning adecuadamente es recomendable analizar bien el problema que atendemos para saber que algoritmo es el más recomendable.
 <br></br>
-<img src="https://scikit-learn.org/stable/_static/ml_map.png" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
-<p style="text-align:center;">Fig 3. <a href="https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">Cheat sheet para seleccion de modelo con Scikit learn</a></p>
+<p align="center">
+    <img src="https://scikit-learn.org/stable/_static/ml_map.png" alt="Data Science Skills">
+</p>
+<p align="center">Fig 3. <a href="https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html">Cheat sheet para seleccion de modelo con Scikit learn</a></p>
 
 Al mismo tiempo, hay que conocer la teoría detrás de estos algoritmos (en gran medida basada en estadística bayesiana). Aunque puedes empezar haciendo machine leaning sin conocimientos matemáticos, es importante que evenutalmente también seas consciente de eso para poder optimizar mejor tus modelos. 
 
