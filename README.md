@@ -71,8 +71,10 @@ Una forma fácil de imaginar esto es que nuestro modelo es un niño que está ap
 
 Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinapsis (unión) de neuronas (nodos). Los nodos se las redes neuronales están divididos en nodos de entrada, nodos en capas escondidas y nodos de salida.
 <br></br>
-<img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
-<p style="text-align:center;">Fig 2. Red Neuronal, machine learning</p>
+<p align="center">
+    <img src="https://www.analyticsvidhya.com/wp-content/uploads/2016/08/Artificial-Intelligence-Neural-Network-Nodes.jpg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:60%">
+</p>
+<p align="center">Fig 2. Red Neuronal, machine learning</p>
 
 Una gran ventaja del uso de librerías como Scikit Learn es que lo modelos ya estan preconstruidas. Por ende, nosotros debemos de preocuparnos solo de los datos que usaremos para entrenar el modelo y los hiperparámetros que optimizaran el aprendizaje. 
 
