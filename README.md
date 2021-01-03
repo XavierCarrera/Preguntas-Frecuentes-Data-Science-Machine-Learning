@@ -86,8 +86,10 @@ Al mismo tiempo, hay que conocer la teoría detrás de estos algoritmos (en gran
 Principalmente la Inteligencia artificial es un super set del Machine Learning y este a su vez del Deep learning. La inteligencia artificial en ciencias de la computacion, es darle a una maquina una capacidad "cognitiva" de resolver una tarea.
 La diferencia entre Deep learning o aprendizaje profundo y machine learning es que el Deep learning puede aprovechar su arquitectura para llevar a cabo transformaciones lineales, con las cuales es posible hacer que la maquina aprenda features no necesariamente explicitas, que pueden estar presentes en cualquier tipo de dato que se utilice para entrenar el modelo. 
 <br></br>
-<img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
+<p align="center">
+    <img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
 <p style="text-align:center;">Fig 4. Deep Learning / Deep Artificial Neural Network</p>
+</p>
 
 
 A nivel práctico, los modelos de deep learning se realizan con librerías de diferenciacion automatica como TensorFlow y Pytorch. Además de que los problemas que resolvemos en machine learning  tienden a ser enfocados a predecir unidimensionalidades. Es decir: cifras numéricas o textos. En deep learning, las predicciones están más orientadas a identificar multidimensionalidades. Es decir: imágenes, video, audio, etc. 
