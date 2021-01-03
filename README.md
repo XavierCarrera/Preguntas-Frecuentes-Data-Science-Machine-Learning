@@ -25,8 +25,10 @@ Para ser un científico de datos hay que desarrollar estas tres areas. También 
 
 Para cada una de estas subramas, las habilidades especificas que necesitas son las siguientes:
 <br></br>
-<img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
-<p style="text-align:center;">Fig 1. Data Science Skills</p>
+<p align="center">
+    <img src="https://1onjea25cyhx3uvxgs4vu325-wpengine.netdna-ssl.com/wp-content/uploads/2014/11/Data-Science-Skills-Udacity-Matrix.png" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:90%">
+</p>
+<p align="center">Fig 1. Data Science Skills</p>
 
 ## 2. ¿Que lenguajes de programación necesito para data science?
 
@@ -87,7 +89,7 @@ Principalmente la Inteligencia artificial es un super set del Machine Learning y
 La diferencia entre Deep learning o aprendizaje profundo y machine learning es que el Deep learning puede aprovechar su arquitectura para llevar a cabo transformaciones lineales, con las cuales es posible hacer que la maquina aprenda features no necesariamente explicitas, que pueden estar presentes en cualquier tipo de dato que se utilice para entrenar el modelo. 
 <br></br>
 <p align="center">
-    <img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg" alt="Data Science Skills" style="display:block;margin-left:auto;margin-right:auto;width:70%">
+    <img src="https://miro.medium.com/max/1199/1*N8UXaiUKWurFLdmEhEHiWg.jpeg" alt="Data Science Skills">
 </p>
 <p align="center">Fig 4. Deep Learning / Deep Artificial Neural Network</p>
 
