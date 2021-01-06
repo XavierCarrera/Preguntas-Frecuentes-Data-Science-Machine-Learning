@@ -245,7 +245,7 @@ Finalmente, **es fundamental siempre consultar la documentación de las tecnolog
 
 ## Contacto 
 
-Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Pedromo. 
+Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Perdomo. 
 
 Si quieres contactar con Xavier, puedes visitar su [sitio web](https://www.xaviercarrera.com/), escribirle [en twitter](https://twitter.com/XaviGrowth) o mandarle un correo a hola@xaviercarrera.com. :nerd_face:
 
