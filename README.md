@@ -8,6 +8,24 @@ Si este repositorio es de valor para tí, no olvides darle fork y estrellita.
 
 Sin más retraso, acá hay algunas de las preguntas más frecuentes entre las personas que estan estudiando Data Science y Machine Learning. 
 
+## Tabla de Contenido 
+
+1. [¿Qué habilidades concretas necesito para arrancar con Data Science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#1-qu%C3%A9-habilidades-concretas-necesito-para-arrancar-con-data-science)
+2. [¿Que lenguajes de programación necesito para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#2-que-lenguajes-de-programaci%C3%B3n-necesito-para-data-science)
+3. [¿Que necesito saber de SQL?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#3-que-necesito-saber-de-sql)
+4. [¿Qué es machine learning?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#4-qu%C3%A9-es-machine-learning)
+5. [¿Y que hay con deep learning e inteligencia artificial?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#5-y-que-hay-con-deep-learning-e-inteligencia-artificial)
+6. [¿Que matemáticas necesito?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#6-que-matem%C3%A1ticas-necesito)
+7. [¿Que quiere decir conocimientos de negocio?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#7-que-quiere-decir-conocimientos-de-negocio)
+8. [¿Que hay que saber sobre visualización de datos?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#8-que-hay-que-saber-sobre-visualizaci%C3%B3n-de-datos)
+9. [¿Jupyter Notebooks o Google Colab?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#9-jupyter-notebooks-o-google-colab)
+10. [¿Que debería de saber sobre ingenieria de software/web?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#10-que-deber%C3%ADa-de-saber-sobre-ingenieria-de-softwareweb)
+11. [¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#11-cuanto-tiempo-puedo-tardar-para-adquirir-las-habilidades-para-data-science)
+12. [¿Que hay sobre la parte legal y ética?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#12-que-hay-sobre-la-parte-legal-y-%C3%A9tica)
+13. [¿Cuales son las opotunidades laborales?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#13-cuales-son-las-opotunidades-laborales)
+* [Recursos externos](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#recursos-externos)
+* [Contacto](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#contacto)
+
 ## 1. ¿Qué habilidades concretas necesito para arrancar con Data Science?
 
 La ciencia de datos son básicamente tres cosas:
@@ -32,7 +50,7 @@ Para cada una de estas subramas, las habilidades especificas que necesitas son l
 
 ## 2. ¿Que lenguajes de programación necesito para data science?
 
-**Python y/o R, dependiendo de los objetivos que tengas**. Los conceptos clave que son importantes entender antes de brincar a data science es la programación orientada a objetos y las estruturas de datos. El uso de librerías también es imoprtante ya que tienen cargados todos los módulos para facilitar tu trabajo. 
+**Python y/o R, dependiendo de los objetivos que tengas**. Los conceptos clave que son importantes entender antes de brincar a data science es la programación orientada a objetos y las estruturas de datos. El uso de librerías también es importante ya que tienen cargados todos los módulos para facilitar tu trabajo. 
 
 [Python](https://docs.python.org/) es un lenguaje multipropósito, el cual funciona bien si tu trabajo estará vinculado al equipo de desarrollo. Las librerías más importantes que deberías dominar si optas por Python son:
 
@@ -55,7 +73,7 @@ Toma en consideración aprender a **usar otras herramientas fuera de la programa
 
 ## 3. ¿Que necesito saber de SQL?
 
-**El mayor valor de [SQL](https://es.wikipedia.org/wiki/SQL) para un data scientist es la posibilidad de hacer consultas a la bases de datos**. Con SQL puedes crear, modificar, administrar y eliminar bases de datos y columnas. Sin embargo, esta no es tradicionalmente la tarea de un científico de datos. 
+**El mayor valor de [SQL](https://es.wikipedia.org/wiki/SQL) para un data scientist es la posibilidad de hacer consultas a las bases de datos**. Con SQL puedes crear, modificar, administrar y eliminar bases de datos y columnas. Sin embargo, esta no es tradicionalmente la tarea de un científico de datos. 
 
 - El primer paso para aprender SQL es conocer como realizar consultas usando el estandar del lenguaje. Es decir, las sentencias SELECT, FROM, WHERE, ORDER BY, GROUP BY, HAVING, AS, WITH y los diferentes JOINS. 
 - Despues puedes avanzar a funciones más avanzadas como window functions, trigger functions, stored procedures, tablespaces y PLSQL. Estas pertencen a las particularidades de motores de bases de datos como [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Oracle](https://www.oracle.com/mx/index.html) o [SQL Server](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads). 
@@ -140,7 +158,7 @@ La algebra lineal nos permite tener un entendimiento más afondo de los algoritm
 - *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
 - *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
 - *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande y quieres reducirlo. 
-- *Autocomposiciones*: Se trata de estudiar un poco las matrices ya que algunas de elals poseen ciertas porpiedades que permiter optimizar calculos, entre ellas podemos encontrar los autovalores y autovectores.
+- *Autocomposiciones*: Se trata de estudiar un poco las matrices ya que algunas de elals poseen ciertas propiedades que permiter optimizar cálculos, entre ellas podemos encontrar los autovalores y autovectores.
 
 
 **Cálculo**
@@ -149,11 +167,11 @@ Con cálculo podemos analizar las tasas de cambio de las cantidades. Esto genera
 
 - *Derivadas*: Usualemente para entener variaciones variables respecto a otras, principalmente utilizada en los algorimos de Deep Learning en el paso de backpropagation y se aplican a traves de regla de cadena. 
 - *Algoritmos de Optimizacion*: En general el aprendizaje de maquina los algoritmos de optimizacion se utilizan para hallar el valor que se acerque mas a nuestro objetivo, sea este hacer una regresion o clasificacion. Entre los algoritmos mas usados esta el Gradiente descendiente, pero tambien se encuenta el gradiente adaptativo y momentum. 
-- *Diferenciacion Automatica*: Dentro del Deep learning, en realidad, la transformacion de datos se da a traves de la construccion de un grafo computacional, y se aprochan para formar funciones las cuales se pueden derivar, en general este parte la cumplen librerias como Tensorflo y Pytorch.
+- *Diferenciacion Automatica*: Dentro del Deep learning, en realidad, la transformacion de datos se da a traves de la construccion de un grafo computacional, y se aprochan para formar funciones las cuales se pueden derivar, en general este parte la cumplen librerias como Tensorflow y Pytorch.
 - *Integracion*: La integracion es el metodo para encontrar el area bajo la curva y puede ser utilizado como metrica en algoritmos de clasificacion, un ejemplo de este es las metrica AUC que literalmente se conoce como Area Under the Curve del comportamiento de un clasificador.
 - *Calculo Multivariable*: El cual permitira enfrentarse a problemas con mas de una variable utilizando conceptos fundamentalmente similares de derivacion e integracion. Son importantes para hablar de reglas de cadena, convergencia, divergencia y gradientes.
 
-Las matemáticas suelen ser un tema que asusta y detiene a muchas personas para entrar a data science y machine learning. Mi consejo es: no te preocupes por hacer cálculos (para eso tienes la computadora). Más bien enfócate en desarrollar un pensamiento probablístico y matemático que te lleve a a saber seleccionar la mejor solución para el problema que te estas enfrentando. 
+Las matemáticas suelen ser un tema que asusta y detiene a muchas personas para entrar a data science y machine learning. Mi consejo es: no te preocupes por hacer cálculos (para eso tienes la computadora). Más bien enfócate en desarrollar un pensamiento probablístico y matemático que te lleve a a saber seleccionar la mejor solución para el problema al que te estas enfrentando. 
 
 Finalmente, es estadísticamente probable que estes enfrentando un problema que alguien más ya soluciono. La clave del éxito es montarte en hombros de gigante y aprovechar los recursos ya existentes. 
 
@@ -166,7 +184,7 @@ Al hablar de conocimiento de negocio nos referimos a responder preguntas como:
 - *¿De donde obtenemos datos para tomar decisiones?*
 - *¿Cuales son los datos de valor para el negocio?*
 
-Es importante a tomar en cuenta que los científicos de datos son aquellos que conocen mejor que nadie los datos más importantes de una empresa. Por un lado, un analista de datos o business intelligence se encarga de obtener todos los datos para presentarlos y facilitar la toma de decisiones. La gran diferencia que tienen con un científico de datos es que este último puede hacer uso de machine learning y estadística inferencial para hacer proyecciones sobre lo que podría suceder con el negocio.
+Es importante a tomar en cuenta que los científicos de datos son aquellos que conocen mejor que nadie los datos más importantes de una organización. Por un lado, un analista de datos o business intelligence se encarga de obtener todos los datos para presentarlos y facilitar la toma de decisiones. La gran diferencia que tienen con un científico de datos es que este último puede hacer uso de machine learning y estadística inferencial para hacer proyecciones sobre lo que podría suceder con el negocio.
 
 ## 8. ¿Que hay que saber sobre visualización de datos?
 
@@ -190,11 +208,11 @@ Es cuestión de gusto personal cual de los dos usar. La ventaja de Jupypter Note
 
 Idealmente, como científico de datos deberías tener una idea clara de como es el desarrollo de software. 
 
-Una de los grandes problemas del gremio es que son muchos los data scientists que solo saben trabajar con Jupyter Notebooks. Es por ello que vale la pena construir ventajas competitivas. Entre las más importantes incluyen:
+Uno de los grandes problemas del gremio es que son muchos data scientists que solo saben trabajar en Jupyter Notebooks. Es por ello que vale la pena construir ventajas competitivas. Entre las más importantes incluyen:
 
 - Conocer un framework de backend. Si estás trabajando con Python, es recomendable empezar con Django. Aunque Flask o FastAPI con más fáciles de aprender y operar, la mayoría de proyectos profesionales son desarrollados en Django. 
 - Cloud, como aquellos que mencionamos en la pregunta 3.
-- DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. Ademas esta podria ser la ventana a MLOps 
+- DevOps es un buen complemento para un científico e ingeniero de datos, ya sea conociendo Bash Shell o administrando servidores Linux. 
 
 ## 11. ¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?
 
@@ -221,7 +239,7 @@ Cada país tiene sus propias leyes respecto al uso de datos. Por lo general, den
 
 - Los datos solo son de valor para el científico de datos cuando vienen en volumen. Ergo, los datos individuales de un usuario no sirven para el trabajo cotidiano en nuestra area.
 - Al hacer el análisis de los datos, hay que procurar que vengan anonimizados. Lo anterior es especialmente importante si son datos bancarios o médicos.
-- Conocer un poco de seguridad informática (sobre todo respecto a las buensa prácticas del almacenamiento y tratamiento de datos) es recomendable.
+- Conocer un poco de seguridad informática (sobre todo respecto a las buenas prácticas de almacenamiento y tratamiento de datos) es recomendable.
 
 Algunas regularidades que podemos encontrar son la HIPAA, PCI-compliance y GDPR-compliance.
 
@@ -235,13 +253,13 @@ Dentro de la industria tech, [**data science es de las disciplinas de mayor dema
 - Dentro de Kaggle podrás encontrar cursos gratuitos de [Python](https://www.kaggle.com/learn/python), [SQL](https://www.kaggle.com/learn/intro-to-sql) y [más](https://www.kaggle.com/learn/overview). 
 - Cursos pagados que valen la pena incluyen [Platzi](https://platzi.com/datos/), [Data Camp](https://www.datacamp.com/) y [Data Quest](https://www.dataquest.io/)
 - Un excelente recurso gratuito para aprender estadística es [Crash Course Statistics](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-- Otro recurso de paga que recomiendo para aprender matemáticas es [Brilliant](https://brilliant.org/)
+- Otro recurso de paga que recomiendo para aprender matemáticas es [Brilliant](https://brilliant.org/).
 - [Stack Overflow](https://stackoverflow.com/) y [Towards Data Science](https://towardsdatascience.com/) son recursos válidos para encontrar respuestas a problemas comunes de data science.
 - Algunas certificaciones que valen la pena tomar incluyen [AWS para Machine Learning](https://aws.amazon.com/es/machine-learning/) y [Google Cloud Platform para Ingenieria de Datos](https://cloud.google.com/certification/data-engineer).
 
 Finalmente, **es fundamental siempre consultar la documentación de las tecnologías que usamos y mantener bien documentados nuestros propios proyectos para futura referencia**. 
 
-(Nota: he utilizado todos estos recursos y no recibó ninguna comisión por promoverlos)
+(Nota: he utilizado todos estos recursos y no recibo ninguna comisión por promoverlos)
 
 ## Contacto 
 
