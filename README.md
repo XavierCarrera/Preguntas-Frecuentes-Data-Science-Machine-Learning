@@ -11,18 +11,18 @@ Sin más retraso, acá hay algunas de las preguntas más frecuentes entre las pe
 ## Tabla de Contenido 
 
 1. [¿Qué habilidades concretas necesito para arrancar con Data Science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#1-qu%C3%A9-habilidades-concretas-necesito-para-arrancar-con-data-science)
-2. [¿Que lenguajes de programación necesito para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#2-que-lenguajes-de-programaci%C3%B3n-necesito-para-data-science)
-3. [¿Que necesito saber de SQL?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#3-que-necesito-saber-de-sql)
+2. [¿Qué lenguajes de programación necesito para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#2-que-lenguajes-de-programaci%C3%B3n-necesito-para-data-science)
+3. [¿Qué necesito saber de SQL?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#3-que-necesito-saber-de-sql)
 4. [¿Qué es machine learning?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#4-qu%C3%A9-es-machine-learning)
-5. [¿Y que hay con deep learning e inteligencia artificial?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#5-y-que-hay-con-deep-learning-e-inteligencia-artificial)
-6. [¿Que matemáticas necesito?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#6-que-matem%C3%A1ticas-necesito)
-7. [¿Que quiere decir conocimientos de negocio?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#7-que-quiere-decir-conocimientos-de-negocio)
-8. [¿Que hay que saber sobre visualización de datos?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#8-que-hay-que-saber-sobre-visualizaci%C3%B3n-de-datos)
+5. [¿Y qué hay con deep learning e inteligencia artificial?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#5-y-que-hay-con-deep-learning-e-inteligencia-artificial)
+6. [¿Qué matemáticas necesito?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#6-que-matem%C3%A1ticas-necesito)
+7. [¿Qué quiere decir conocimientos de negocio?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#7-que-quiere-decir-conocimientos-de-negocio)
+8. [¿Qué hay que saber sobre visualización de datos?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#8-que-hay-que-saber-sobre-visualizaci%C3%B3n-de-datos)
 9. [¿Jupyter Notebooks o Google Colab?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#9-jupyter-notebooks-o-google-colab)
-10. [¿Que debería de saber sobre ingenieria de software/web?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#10-que-deber%C3%ADa-de-saber-sobre-ingenieria-de-softwareweb)
-11. [¿Cuanto tiempo puedo tardar para adquirir las habilidades para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#11-cuanto-tiempo-puedo-tardar-para-adquirir-las-habilidades-para-data-science)
-12. [¿Que hay sobre la parte legal y ética?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#12-que-hay-sobre-la-parte-legal-y-%C3%A9tica)
-13. [¿Cuales son las opotunidades laborales?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#13-cuales-son-las-opotunidades-laborales)
+10. [¿Qué debería de saber sobre ingenieria de software/web?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#10-que-deber%C3%ADa-de-saber-sobre-ingenieria-de-softwareweb)
+11. [¿Cuánto tiempo puedo tardar para adquirir las habilidades para data science?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#11-cuanto-tiempo-puedo-tardar-para-adquirir-las-habilidades-para-data-science)
+12. [¿Qué hay sobre la parte legal y ética?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#12-que-hay-sobre-la-parte-legal-y-%C3%A9tica)
+13. [¿Cuáles son las oportunidades laborales?](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#13-cuales-son-las-oportunidades-laborales)
 * [Recursos externos](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#recursos-externos)
 * [Contacto](https://github.com/XavierCarrera/Preguntas-Frecuentes-Data-Science-Machine-Learning#contacto)
 
@@ -32,7 +32,7 @@ La ciencia de datos son básicamente tres cosas:
 
 - **Ciencias de la Computación**: Programación, para ser más específicos.
 - **Matemáticas**: Estadística mayormente, álgebra lineal y cálculo.
-- **Conocimiento de negocio**: Con esta le daras contexto a tus analisis.
+- **Conocimiento de negocio**: Con esta le darás contexto a tus análisis.
 
 Para ser un científico de datos hay que desarrollar estas tres areas. También hay que tener en cuenta que Data Science tiene varias subramas:
 
@@ -56,7 +56,7 @@ Para cada una de estas subramas, las habilidades especificas que necesitas son l
 
 - [*Numpy*](https://numpy.org/doc/): Tiene varias funcionalidades de algebra lineal, que te permiten trabajar con vectores (arrays y columnas) y matrices (arrays de arrays y tablas).
 - [*Pandas*](https://pandas.pydata.org/docs/): Te permite procesar y manipular datos como si fueran tablas de Excel utilizando Data Frames. También es de utilidad para exportar datos en formato json, excel, csv y más. 
-- [*SciPy*](https://www.scipy.org/docs.html): Es una extension de numpy la cual añade mas funcionalidades de estadísticas, algebra lineal, integracion, optimizacion, etc.
+- [*SciPy*](https://www.scipy.org/docs.html): Es una extension de numpy la cual añade mas funcionalidades de estadísticas, algebra lineal, integración, optimización, etc.
 - [*Matplotlib*](https://matplotlib.org/3.3.3/contents.html): Es la librería principal para visualizar datos, aunque también puedes mirar [Ploty](https://plotly.com/python/) y [Seaborn](https://seaborn.pydata.org/).
 - [*Scikit Learn*](https://scikit-learn.org/): Tiene varios modulos para realizar machine learning (más de esto a continuación). 
 - [*TensorFlow*](https://www.tensorflow.org/api_docs) y [*Pytorch*](https://pytorch.org/docs/stable/index.html): Son librerías de diferenciacion automatica principalmente usadas para deep learning (más de esto a continuación). 
@@ -79,13 +79,13 @@ Toma en consideración aprender a **usar otras herramientas fuera de la programa
 - Despues puedes avanzar a funciones más avanzadas como window functions, trigger functions, stored procedures, tablespaces y PLSQL. Estas pertencen a las particularidades de motores de bases de datos como [MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/), [Oracle](https://www.oracle.com/mx/index.html) o [SQL Server](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads). 
 - Finalmente, aprender sobre soluciones de cloud como ([Amazon Web Services](https://aws.amazon.com/es/products/databases/), [Google Cloud Platform](https://cloud.google.com/products/databases), [Azure](https://azure.microsoft.com/es-es/product-categories/databases/), [IBM Cloud](https://www.ibm.com/cloud/databases), etc) es importantísimo para aprovechar las bondades de la Big Data (es decir, los millones de tera bytes disponibles). Por otra parte, para analisis conviene enfocarse a las búsquedas columnares con motores como [Redshift](https://aws.amazon.com/es/redshift/) o [Big Query](https://cloud.google.com/bigquery) las cuales son las mas populares . 
 
-Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimizadas para busqueda, para memoria o basadas en grafos) no son parte común del trabajo de un científico de datos conviene saber algo de ellas, algunas poplares son [MongoDB](https://www.mongodb.com/es) o [Firebase](https://firebase.google.com/?hl=es) para poder tener un acceso aún mayor a datos.
+Aunque NoSQL (es decir bases de datos basadas en documentos, key-values, optimizadas para busqueda, para memoria o basadas en grafos) no son parte común del trabajo de un científico de datos conviene saber algo de ellas, algunas populares son [MongoDB](https://www.mongodb.com/es) o [Firebase](https://firebase.google.com/?hl=es) para poder tener un acceso aún mayor a datos.
 
 ## 4. ¿Qué es machine learning?
 
 Machine learning es la parte de data science que se encarga de crear modelos que generen predicciones a partir de datos históricos. La idea central de de machine learning es encontrar patrones poco obvios entre nuestros data points. 
 
-Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocaublario que le enseñenos. Si al niño le enseñamos groserias, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
+Una forma fácil de imaginar esto es que nuestro modelo es un niño que está aprendiendo hablar. Lo que el niño dice depende del vocabulario que le enseñenos. Si al niño le enseñamos groserías, dirá groserías. Si al niño le enseñaos jerga, hablará en jerga. Por ende, una parte importante de entrenar un modelo es obtener datos verídicos y representativos del fenómeno que queremos analizar. 
 
 Dentro de un algoritmo de machine learning encontramos redes neuronales artificiales. Estas redes procuran emular el proceso en el que un cerebro humano aprende. Es decir, a partir de la sinapsis (unión) de neuronas (nodos). Los nodos se las redes neuronales están divididos en nodos de entrada, nodos en capas escondidas y nodos de salida.
 <br></br>
@@ -116,7 +116,7 @@ La diferencia entre Deep learning o aprendizaje profundo y machine learning es q
 <p align="center">Fig 4. Deep Learning / Deep Artificial Neural Network</p>
 
 
-A nivel práctico, los modelos de deep learning se realizan con librerías de diferenciacion automatica como TensorFlow y Pytorch. Además de que los problemas que resolvemos en machine learning  tienden a ser enfocados a predecir unidimensionalidades. Es decir: cifras numéricas o textos. En deep learning, las predicciones están más orientadas a identificar multidimensionalidades. Es decir: imágenes, video, audio, etc. 
+A nivel práctico, los modelos de deep learning se realizan con librerías de diferenciación automatica como TensorFlow y Pytorch. Además de que los problemas que resolvemos en machine learning  tienden a ser enfocados a predecir unidimensionalidades. Es decir: cifras numéricas o textos. En deep learning, las predicciones están más orientadas a identificar multidimensionalidades. Es decir: imágenes, video, audio, etc. 
 
 Otra consideración a la hora de trabajar con Deep Learning es que las librerías con las que trabajamos son de bajo nivel. Lo anterior quiere decir que en TensforFlow y Pytorch debemos de tener más cuidado al diseñar las capas, nodos, tasas de aprendizaje y funciones de activación a diferencia de librerías de alto nivel como Scikit Learn. 
 
@@ -130,7 +130,7 @@ Específicamente, necesitas saber lo siguiente:
 
 **Estadística básica**
 
-Durante el Análisis Exploratorio de Datos, tendrás que aplicar los conceptos elementales de estadística. En un principio tienes un número de data points, los cuales necesitan ser comprendidos antes de ser procesdos en un modelo de machine o deep learning. Cuando queremos entender los datos, estamos hablando de estadística descrpitiva. Los conceptos clave a entender son:
+Durante el Análisis Exploratorio de Datos, tendrás que aplicar los conceptos elementales de estadística. En un principio tienes un número de data points, los cuales necesitan ser comprendidos antes de ser procesados en un modelo de machine o deep learning. Cuando queremos entender los datos, estamos hablando de estadística descriptiva. Los conceptos clave a entender son:
 
 - *Media, moda, mediana*: Lo cual nos dice que tan frecuentes son ciertos datos y nos permite identificar datos raros (mejor conocidos como outliers).
 - *Varianzas y desviaciones estándard*: Con lo que podemos identificar rangos dentro de los cuales se encuentran la mayoría de nuestros datos.
@@ -154,7 +154,7 @@ La algebra lineal nos permite tener un entendimiento más afondo de los algoritm
 
 - *Normas de vectores y distancias euclidianas*: que nos permite endender nuestras funciones de pérdida. Es decir, cuanto nuestro modelo deja de aprender a medida que procesa los datos o lo muy alejado que se encuentra nuestra prediccion de la realidad.
 - *Regularizaciones*: para prevenir que nuestro modelo se sobre-ajuste a los datos que le hemos dado.
-- *Operaciones de Vectores y Matrices*: las cuales son utiles para debugar redes neuronales, transformar tu informacion e incluso optimizar calculos.
+- *Operaciones de Vectores y Matrices*: las cuales son utiles para debuggear redes neuronales, transformar tu informacion e incluso optimizar calculos.
 - *Matrices de covarianza*: que nos permite medir la relación linear dentro de un conjunto de datos.
 - *Vectores de soporte*: los cuales son cruciales para entender que separa a grupos de datos cuando hacemos clasificaciones.
 - *Análisis de Componentes Principales (PCA)*: que es crucial cuando no podemos decidir cuales son los features que más impactan a un conjunto de datos o el numero de predictores es muy grande y quieres reducirlo. 
@@ -166,29 +166,29 @@ La algebra lineal nos permite tener un entendimiento más afondo de los algoritm
 Con cálculo podemos analizar las tasas de cambio de las cantidades. Esto genera curvas las cuales podemos medir según su longitud u area, que nos permite optimizar nuestros algoritmos de machine learning. En especial, necesitamos cálculo para: 
 
 - *Derivadas*: Usualemente para entener variaciones variables respecto a otras, principalmente utilizada en los algorimos de Deep Learning en el paso de backpropagation y se aplican a traves de regla de cadena. 
-- *Algoritmos de Optimizacion*: En general el aprendizaje de maquina los algoritmos de optimizacion se utilizan para hallar el valor que se acerque mas a nuestro objetivo, sea este hacer una regresion o clasificacion. Entre los algoritmos mas usados esta el Gradiente descendiente, pero tambien se encuenta el gradiente adaptativo y momentum. 
-- *Diferenciacion Automatica*: Dentro del Deep learning, en realidad, la transformacion de datos se da a traves de la construccion de un grafo computacional, y se aprochan para formar funciones las cuales se pueden derivar, en general este parte la cumplen librerias como Tensorflow y Pytorch.
-- *Integracion*: La integracion es el metodo para encontrar el area bajo la curva y puede ser utilizado como metrica en algoritmos de clasificacion, un ejemplo de este es las metrica AUC que literalmente se conoce como Area Under the Curve del comportamiento de un clasificador.
-- *Calculo Multivariable*: El cual permitira enfrentarse a problemas con mas de una variable utilizando conceptos fundamentalmente similares de derivacion e integracion. Son importantes para hablar de reglas de cadena, convergencia, divergencia y gradientes.
+- *Algoritmos de Optimización*: En general el aprendizaje de maquina los algoritmos de optimización se utilizan para hallar el valor que se acerque mas a nuestro objetivo, sea este hacer una regresion o clasificacion. Entre los algoritmos mas usados esta el Gradiente descendiente, pero tambien se encuenta el gradiente adaptativo y momentum. 
+- *Diferenciación Automática*: Dentro del Deep learning, en realidad, la transformacion de datos se da a traves de la construccion de un grafo computacional, y se aprochan para formar funciones las cuales se pueden derivar, en general este parte la cumplen librerias como Tensorflow y Pytorch.
+- *Integración*: La integración es el metodo para encontrar el area bajo la curva y puede ser utilizado como metrica en algoritmos de clasificacion, un ejemplo de este es las metrica AUC que literalmente se conoce como Area Under the Curve del comportamiento de un clasificador.
+- *Cálculo Multivariable*: El cual permitirá enfrentarse a problemas con mas de una variable utilizando conceptos fundamentalmente similares de derivación e integración. Son importantes para hablar de reglas de cadena, convergencia, divergencia y gradientes.
 
 Las matemáticas suelen ser un tema que asusta y detiene a muchas personas para entrar a data science y machine learning. Mi consejo es: no te preocupes por hacer cálculos (para eso tienes la computadora). Más bien enfócate en desarrollar un pensamiento probablístico y matemático que te lleve a a saber seleccionar la mejor solución para el problema al que te estas enfrentando. 
 
-Finalmente, es estadísticamente probable que estes enfrentando un problema que alguien más ya soluciono. La clave del éxito es montarte en hombros de gigante y aprovechar los recursos ya existentes. 
+Finalmente, es estadísticamente probable que estes enfrentando un problema que alguien más ya solucionó. La clave del éxito es montarte en hombros de gigante y aprovechar los recursos ya existentes. 
 
 ## 7. ¿Que quiere decir conocimientos de negocio?
 
 Al hablar de conocimiento de negocio nos referimos a responder preguntas como:
 
-- *¿Cual es el objetivo de negocio?*
-- *¿Cuales son las métricas para medir el éxito del negocio?*
-- *¿De donde obtenemos datos para tomar decisiones?*
-- *¿Cuales son los datos de valor para el negocio?*
+- *¿Cuál es el objetivo de negocio?*
+- *¿Cuáles son las métricas para medir el éxito del negocio?*
+- *¿De dónde obtenemos datos para tomar decisiones?*
+- *¿Cuáles son los datos de valor para el negocio?*
 
 Es importante a tomar en cuenta que los científicos de datos son aquellos que conocen mejor que nadie los datos más importantes de una organización. Por un lado, un analista de datos o business intelligence se encarga de obtener todos los datos para presentarlos y facilitar la toma de decisiones. La gran diferencia que tienen con un científico de datos es que este último puede hacer uso de machine learning y estadística inferencial para hacer proyecciones sobre lo que podría suceder con el negocio.
 
 ## 8. ¿Que hay que saber sobre visualización de datos?
 
-Comunmente se dice que el data scientist es un story teller. Esto es cierto en el sentido que debe de reconstruir hechos para explicar un fenómeno. Debes de considerar también que como científico de datos, debes presentar la información a personas que tienen menos conocimientos matemáticos que tú. La forma más adecuada de hacerlo es [através de gráficos](https://www.data-to-viz.com/). 
+Comúnmente se dice que el data scientist es un story teller. Esto es cierto en el sentido que debe de reconstruir hechos para explicar un fenómeno. Debes de considerar también que como científico de datos, debes presentar la información a personas que tienen menos conocimientos matemáticos que tú. La forma más adecuada de hacerlo es [através de gráficos](https://www.data-to-viz.com/). 
 
 Lo más recomendable es estudiar para que sirven cada uno de los diferentes gráficos. Así mismo, toma en cuenta sus caracaterísticas únicas para sacarle mayor jugo. 
 
@@ -198,7 +198,7 @@ Por último, recuerda que la visualización de gráficas y la estadística se pu
 
 ## 9. ¿Jupyter Notebooks o Google Colab?
 
-Un [Jupyter Notebook](https://jupyter.org/) es parte de la colección [Anaconda](https://www.anaconda.com/products/individual) que tiene casí todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
+Un [Jupyter Notebook](https://jupyter.org/) es parte de la colección [Anaconda](https://www.anaconda.com/products/individual) que tiene casi todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
 
 Por su lado, [Google Colab](https://colab.research.google.com/) tiene casi todas las librerías precargadas y no hay necesidad de instalarlas usando pip. 
 
@@ -243,7 +243,7 @@ Cada país tiene sus propias leyes respecto al uso de datos. Por lo general, den
 
 Algunas regularidades que podemos encontrar son la HIPAA, PCI-compliance y GDPR-compliance.
 
-## 13. ¿Cuales son las opotunidades laborales?
+## 13. ¿Cuales son las oportunidades laborales?
 
 Dentro de la industria tech, [**data science es de las disciplinas de mayor demanda laboral**](https://www.xataka.com/otros/cientifico-datos-asi-profesion-demandada). Debido a que son muchos los puestos que quedan vacantes para esta posición y pocos los solicitantes, los sueldos en esta area son bastante más elevados en comparación a otros roles en la industria.  
 
@@ -267,4 +267,4 @@ Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Perdomo.
 
 Si quieres contactar con Xavier, puedes visitar su [sitio web](https://www.xaviercarrera.com/), escribirle [en twitter](https://twitter.com/XaviGrowth) o mandarle un correo a hola@xaviercarrera.com. :nerd_face:
 
-Para contacar con Gerson, puedes enviar un correo a ing.gersonp@gmail.com o encontrarlo en twtter como [@gersonrpq](https://twitter.com/gersonrpq). :robot:  
+Para contactar con Gerson, puedes enviar un correo a ing.gersonp@gmail.com o encontrarlo en twtter como [@gersonrpq](https://twitter.com/gersonrpq). :robot:  
