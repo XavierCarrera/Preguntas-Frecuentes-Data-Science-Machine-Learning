@@ -198,11 +198,15 @@ Por último, recuerda que la visualización de gráficas y la estadística se pu
 
 ## 9. ¿Jupyter Notebooks o Google Colab?
 
-Un [Jupyter Notebook](https://jupyter.org/) es parte de la colección [Anaconda](https://www.anaconda.com/products/individual) que tiene casi todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
+Un [Jupyter Notebook](https://jupyter.org/) es un entorno informático, interactivo, basado en la web. Un documento o notebook de Jupyter es en realidad un archivo JSON (con terminación ".ipynb") con una lista ordenada de celdas que pueden contener código, texto, gráficos, etc. 
+
+Forma parte también de la colección [Anaconda](https://www.anaconda.com/products/individual) que tiene casi todas las librerías para trabajar en Machine Learning y Data Science. La ventaja que tiene es que puedes probar pedazos de código sin tener la necesidad de saltar entre un IDE y la terminal. 
 
 Por su lado, [Google Colab](https://colab.research.google.com/) tiene casi todas las librerías precargadas y no hay necesidad de instalarlas usando pip. 
 
-Es cuestión de gusto personal cual de los dos usar. La ventaja de Jupypter Notebook es que corre en local host, por lo que no dependes de tu conexión de internet para trabajar. Por otra parte, Anaconda es muy pesado cuando se instalan sus paquetes. Por ello conviene en ese caso trabajar en un Colab, ya que además ofrece memoria RAM suficiente para trabajar. 
+Es cuestión de gusto personal cual utilizar. La ventaja de Jupyter Notebook es que corre en localhost, por lo que no dependes de tu conexión de internet para trabajar una vez instaladas las librerías.
+
+Puedes utilizar la versión incluida con Anaconda, sin embargo es cargar muchas librerías en tu equipo cuando puedes usar un Jupyter Notebook en tu propio ambiente virtual y sin instalar Anaconda, sólo con algún manejador de paquetes (por ejemplo usando: pip install jupyter). Por ello conviene en ese caso trabajar en un Colab, ya que además ofrece memoria RAM suficiente para trabajar. 
 
 ## 10. ¿Que debería de saber sobre ingenieria de software/web?
 
