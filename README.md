@@ -267,8 +267,10 @@ Finalmente, **es fundamental siempre consultar la documentación de las tecnolog
 
 ## Contacto 
 
-Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Perdomo. 
+Este apunte fue hecho en conjunto por Xavier Carrera y Gerson Perdomo con una pequeña colaboración de Fer Torres.
 
 Si quieres contactar con Xavier, puedes visitar su [sitio web](https://www.xaviercarrera.com/), escribirle [en twitter](https://twitter.com/XaviGrowth) o mandarle un correo a hola@xaviercarrera.com. :nerd_face:
 
 Para contactar con Gerson, puedes enviar un correo a ing.gersonp@gmail.com o encontrarlo en twitter como [@gersonrpq](https://twitter.com/gersonrpq). :robot:  
+
+Si quieres contactar con Fer Torres, puedes enviarle un correo a [contacto@fertorresmx.dev](mailto:contacto@fertorresmx.dev), invitarle [un café](https://www.buymeacoffee.com/fertorresmx), visitar [fertorresmx.dev](https://www.fertorresmx.dev/) o enviarle un saludo en [Twitter](https://twitter.com/FerTorresMx).
